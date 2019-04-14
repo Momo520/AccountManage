@@ -1,5 +1,5 @@
-# 账号密橱
-账号密码管理APP [APK下载](https://www.coolapk.com/apk/170680)
+# 账号管家
+账号管家APP
 <br>注：个人APP 仅供学习 ，不可用于商业用途。
 
 
@@ -20,6 +20,4 @@
  ![image](https://github.com/BestCoderXQX/AccountManage/raw/master/screenshots/c1.png)
  ![image](https://github.com/BestCoderXQX/AccountManage/raw/master/screenshots/d1.png)
 
- 
- [我的博客: 听着music睡](http://www.cnblogs.com/xqxacm/)
 
